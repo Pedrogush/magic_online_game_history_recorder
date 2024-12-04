@@ -1,0 +1,22 @@
+
+{
+    "positions": {
+        "settings": [1174, 40],
+        "game_history": [63, 280],
+        "test_game_details": [903, 270],
+        "test_game_replay_start": [721, 322],
+        "next": [619, 962],
+        "mouse_pos_for_scroll": [1207, 245]
+    },
+    "event_scroll": [846, 325],
+    "match_history_box": [204, 255, 1219, 796],
+    "match_x_coords": {
+        "game_type": [223, 321],
+        "format": [324, 415],
+        "screen_name": [428, 608],
+        "result": [621, 715],
+        "date": [721, 873]
+    },
+    "event_history_box": [601, 264, 847, 576],
+    "game_has_ended_box": [18, 413, 133, 435]
+}
