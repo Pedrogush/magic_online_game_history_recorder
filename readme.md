@@ -1,10 +1,14 @@
 
-An automation tool for use with Magic Online
+# Magic Online Game History Recorder
 
-Navigates to the Game History section inside the game
+## An automation tool for use with Magic Online
 
-Indexes games (game type, format, opponent's name, date) with OCR
+### Usage:
 
++ Navigates to the Game History section inside the game
++ Indexes games (game type, format, opponent's name, date) with OCR
++ Records and archives games played as a sequence of images
 
-Records and archives games played as a sequence of images
+### Why?
 
+To make it easier to maintain a record of played games for competitive review
